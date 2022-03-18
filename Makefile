@@ -30,7 +30,7 @@ debug: CFLAGS += -g
 debug: fclean all
 
 tests_run: 	fclean
-	echo "Tests_run"
+	echo "NOIEJFAKEJFIWAWDAW"
 
 clean:
 	$(RM) $(OBJ)
